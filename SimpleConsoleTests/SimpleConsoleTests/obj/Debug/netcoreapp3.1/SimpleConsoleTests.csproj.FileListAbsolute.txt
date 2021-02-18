@@ -1,0 +1,13 @@
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\bin\Debug\netcoreapp3.1\SimpleConsoleTests.exe
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\bin\Debug\netcoreapp3.1\SimpleConsoleTests.deps.json
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\bin\Debug\netcoreapp3.1\SimpleConsoleTests.runtimeconfig.json
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\bin\Debug\netcoreapp3.1\SimpleConsoleTests.runtimeconfig.dev.json
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\bin\Debug\netcoreapp3.1\SimpleConsoleTests.dll
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\bin\Debug\netcoreapp3.1\SimpleConsoleTests.pdb
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\obj\Debug\netcoreapp3.1\SimpleConsoleTests.csprojAssemblyReference.cache
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\obj\Debug\netcoreapp3.1\SimpleConsoleTests.AssemblyInfoInputs.cache
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\obj\Debug\netcoreapp3.1\SimpleConsoleTests.AssemblyInfo.cs
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\obj\Debug\netcoreapp3.1\SimpleConsoleTests.csproj.CoreCompileInputs.cache
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\obj\Debug\netcoreapp3.1\SimpleConsoleTests.dll
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\obj\Debug\netcoreapp3.1\SimpleConsoleTests.pdb
+C:\Users\YANGYI\source\repos\SimpleConsoleTests\SimpleConsoleTests\obj\Debug\netcoreapp3.1\SimpleConsoleTests.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\bin\Debug\WpfApptest20210220.exe.config
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\bin\Debug\WpfApptest20210220.exe
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\bin\Debug\WpfApptest20210220.pdb
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220_MarkupCompile.cache
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220_MarkupCompile.lref
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220.g.resources
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220.exe
+C:\Users\Administrator\source\repos\WpfApptest20210220\WpfApptest20210220\obj\Debug\WpfApptest20210220.pdb
